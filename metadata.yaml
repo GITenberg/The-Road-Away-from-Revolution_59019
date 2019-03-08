@@ -1,5 +1,8 @@
 _repo: The-Road-Away-from-Revolution_59019
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59019-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Woodrow
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1689
     wikipedia: http://en.wikipedia.org/wiki/Woodrow_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59019#The-Road-Away-from-Revolution
 gutenberg_issued: '2019-03-06'
 gutenberg_type: Text
 identifiers:
